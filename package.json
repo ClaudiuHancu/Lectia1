@@ -1,0 +1,23 @@
+{
+  "name": "Lectia1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudiuHancu/Lectia1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudiuHancu/Lectia1/issues"
+  },
+  "homepage": "https://github.com/ClaudiuHancu/Lectia1#readme",
+  "dependencies": {
+    "webpack": "^5.15.0"
+  }
+}
